@@ -3,7 +3,7 @@ layout: page
 title: Events & Community
 ---
 
-<img src="{{ "/assets/profile.jpg" | relative_url }}" alt="Paolo Marangi" style="width:180px; height:180px; object-fit:cover; border-radius:50%; float:right; margin: 0 0 16px 24px;">
+<img src="{{ "/assets/profile.jpg" | relative_url }}" alt="Paolo Marangio" style="width:180px; height:180px; object-fit:cover; border-radius:50%; float:right; margin: 0 0 16px 24px;">
 
 I'm a Data/Research Engineer and Operations Assistant at the Barcelona Supercomputing Center (BSC), working on research infrastructure, HPC pipelines, and data management within the Computational Social Sciences & Humanities department. I hold a BSc in Biology/Chemistry from Maastricht University and an MSc in High Performance Computing and Data Science from the University of Edinburgh.
 
