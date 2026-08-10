@@ -14,4 +14,4 @@ As a volunteer community manager within the MSP alumni network, I grew the MSP A
 
 <img src="{{ "/assets/300.jpg" | relative_url }}" alt="whatever" style="width:100%; max-width:600px; border-radius:8px; margin: 16px 0;">
 
-<img src="{{ "/assets/415.jpg" | relative_url }}" alt="whatever" style="width:100%; max-width:600px; border-radius:8px; margin: 16px 0;">
+<img src="{{ "/assets/415.png" | relative_url }}" alt="whatever" style="width:100%; max-width:600px; border-radius:8px; margin: 16px 0;">
