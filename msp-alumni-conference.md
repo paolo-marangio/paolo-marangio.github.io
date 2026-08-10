@@ -26,7 +26,7 @@ This edition of the MSP conference was held on September 6th, 2019. This edition
 
 This edition of the annual conference took place on September 17th and 19th — fully virtual due to the pandemic, with Maaike Trân joining the organizing team. It included talks by Roy Erkens and Leon Claessen, a session with incoming MSP alumni officer Giuditta Perversi, and a virtual tour of the new MSP building hosted by Chris Pawley. The content shifted too: instead of research presentations, alumni ran skill-building workshops, career advice sessions, and storytelling talks, capped off with a panel debate and online speed-dating. Even without an in-person room, the social side of the event held up.
 
-<img src="{{ "/assets/mspac_2020.jpg" | relative_url }}" alt="whatever" style="width:100%; max-width:600px; border-radius:8px; margin: 16px 0;">
+<img src="{{ "/assets/mspac_2020.png" | relative_url }}" alt="whatever" style="width:100%; max-width:600px; border-radius:8px; margin: 16px 0;">
 
 ## 2021 Hybrid {#y2021}
 
