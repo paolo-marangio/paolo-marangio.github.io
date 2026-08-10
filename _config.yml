@@ -1,0 +1,18 @@
+title: Paolo Marangi — Events & Community
+description: A record of events, gatherings, and communities I've helped build.
+theme: minima
+
+minima:
+  skin: dark
+
+markdown: kramdown
+permalink: /:title/
+
+# This is now a USER site (its own GitHub account), so it lives at the
+# domain root: https://paolo-marangio.github.io/
+# No baseurl needed — leave it blank.
+baseurl: ""
+url: "https://paolo-marangio.github.io"
+
+plugins:
+  - jekyll-sitemap
