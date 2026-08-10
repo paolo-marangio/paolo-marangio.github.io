@@ -14,5 +14,5 @@ I'm fluent in Italian (native), English, and Spanish, have basic Dutch, and am c
 ## Initiatives
 
 - **[MSP Alumni Conference]({{ "/msp-alumni-conference/" | relative_url }})** — organizing team member from 2019 t0 2021, and then again in 2026, including n-person, fully online, and hybrid editions.
-- **[PrecisionTox Consortium Dinner]({{ "/precisiontox-dinner/" | relative_url }})** — helped organize a dinner as part of the consortium's general assembly meeting in Barcelona in JUne 2022.
+- **[PrecisionTox Consortium Dinner]({{ "/precisiontox-dinner/" | relative_url }})** — helped organize a dinner as part of the consortium's general assembly meeting in Barcelona in June 2022.
 - **[Growing the MSP Alumni WhatsApp Community]({{ "/whatsapp-community/" | relative_url }})** — volunteer, pro bono: grew the community from 0 to 400+ members.
