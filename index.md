@@ -5,7 +5,7 @@ title: Events & Community
 
 <img src="{{ "/assets/profile.jpg" | relative_url }}" alt="Paolo Marangio" style="width:180px; height:180px; object-fit:cover; border-radius:50%; float:right; margin: 0 0 16px 24px;">
 
-My academic path started with the International Baccalaureate at UWC Maastricht, which gave me an early, formative sense of international mindedness and adaptability — something that's stayed with me ever since. I went on to earn a BSc in Natural Sciences from Maastricht University's Maastricht Science Programme (MSP), followed by an MSc in Biotechnology & Synthetic Biology and an MSc in High Performance Computing & Data Science, both from the University of Edinburgh.
+My academic path started with the International Baccalaureate at UWC Maastricht, which gave me an early, formative sense of international mindedness and adaptability — something that's stayed with me ever since. I then went on to earn a BSc in Natural Sciences from Maastricht University's Maastricht Science Programme (MSP), followed by an MSc in Biotechnology & Synthetic Biology and an MSc in High Performance Computing & Data Science, both from the University of Edinburgh.
 
 Currently I'm a Data Engineer and Operations Assistant at the Barcelona Supercomputing Center (BSC), where I work on research infrastructure, HPC pipelines, and data management within the Computational Social Sciences and Humanities department.
 
