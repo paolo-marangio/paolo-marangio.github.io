@@ -4,14 +4,8 @@ title: Growing the MSP Alumni WhatsApp Community
 permalink: /whatsapp-community/
 ---
 
-As a volunteer community manager within the MSP alumni network, I grew the MSP Alumni WhatsApp community from 0 members in 2023 to more than 400 members today (August 2026), structured across several country-specific group chats to keep conversations relevant and manageable at that scale.
+As a volunteer, pro bono effort within the MSP alumni network, I grew the MSP Alumni WhatsApp community from 0 in 2023 to more than 400 members today, structured across several country-specific group chats to keep conversations relevant and manageable at that scale.
 
-<img src="{{ "/assets/0.jpg" | relative_url }}" alt="whatever" style="width:100%; max-width:600px; border-radius:8px; margin: 16px 0;">
-
-<img src="{{ "/assets/100.jpg" | relative_url }}" alt="whatever" style="width:100%; max-width:600px; border-radius:8px; margin: 16px 0;">
-
-<img src="{{ "/assets/250.jpg" | relative_url }}" alt="whatever" style="width:100%; max-width:600px; border-radius:8px; margin: 16px 0;">
-
-<img src="{{ "/assets/300.jpg" | relative_url }}" alt="whatever" style="width:100%; max-width:600px; border-radius:8px; margin: 16px 0;">
-
-<img src="{{ "/assets/415.png" | relative_url }}" alt="whatever" style="width:100%; max-width:600px; border-radius:8px; margin: 16px 0;">
+<div style="display:flex; flex-wrap:wrap; gap:16px; margin-top:20px;">
+  <img src="{{ "/assets/0.jpg" | /assets/100.jpg }}" alt="MSP Alumni Community WhatsApp group" style="width:calc(50% - 8px); min-width:180px; border-radius:8px;">
+</div>

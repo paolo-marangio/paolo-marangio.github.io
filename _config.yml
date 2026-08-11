@@ -16,3 +16,7 @@ url: "https://paolo-marangio.github.io"
 
 plugins:
   - jekyll-sitemap
+
+# Empty list = don't auto-populate the top nav bar from every page.
+# Your own "Events" links on the homepage act as navigation instead.
+header_pages: []
