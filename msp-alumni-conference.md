@@ -46,4 +46,4 @@ This edition of the annual conference took place on September 18th. An online ev
 
 ## 2026 Hybrid {#y2026}
 
-I am going to be the main organizer of this year's conference (date TBC), in collaboration with the MSP Alumni Officer and his assistant.
+I am going to be the main organizer of this year's conference currently scheduled on October 10th, in collaboration with the MSP Alumni Officer and his assistant.

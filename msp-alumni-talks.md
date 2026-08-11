@@ -8,7 +8,7 @@ permalink: /msp-alumni-talks/
 .wrapper { max-width: 1100px !important; }
 </style>
 
-MSP Alumni Talks are online sessions where alumni share their career paths or speak on a topic of interest to the wider community. I've organized three so far. This involves agreeing on the topic with the speakers, coordinating and scheduling the sessions, introducing the speakers, and keeping the Q&A structured, engaging, and interactive. [MSP Alumni events page](https://msp-alumni.nl/events.html).
+MSP Alumni Talks are online sessions where alumni share their career paths or speak on a topic of interest to the wider community. I've organized three so far. This involves agreeing on the topic with the speakers, coordinating and scheduling the sessions, introducing the speakers, and keeping the Q&A structured, engaging, and interactive. Recordings are available at the [MSP Alumni events page](https://msp-alumni.nl/events.html).
 
 **On this page:**
 
