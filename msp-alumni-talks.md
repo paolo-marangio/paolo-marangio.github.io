@@ -46,5 +46,5 @@ MSP alumnus Jordi Ferrer Orri shared his entrepreneurial journey in the material
 
 <div style="display:flex; flex-wrap:wrap; gap:16px; margin-top:20px;">
 <img src="{{ "/assets/jordi_1.jpeg" | relative_url }}" alt="MSP Alumni Community WhatsApp group" style="width:calc(50% - 8px); min-width:180px; border-radius:8px;">
-<img src="{{ "/assets/jordi_2.jpeg" | relative_url }}" alt="MSP Alumni Community WhatsApp group" style="width:calc(50% - 8px); min-width:180px; border-radius:8px;">
+<img src="{{ "/assets/jordi_3.jpeg" | relative_url }}" alt="MSP Alumni Community WhatsApp group" style="width:calc(50% - 8px); min-width:180px; border-radius:8px;">
 </div>
