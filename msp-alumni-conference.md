@@ -20,6 +20,8 @@ The MSP Alumni Conference is a yearly gathering of alumni and students of the Ma
 
 This edition of the MSP conference was held on September 6th, 2019. The day featured 12 presentations from alumni and a keynote from incoming Dean Leon Claassen, followed by an evening reception with food and drinks and an informal speed-dating session in Stadspark Maastricht, designed to let students and alumni mix. That speed-dating format struck a chord — alumni-student interaction has been a core part of the conference ever since.
 
+<img src="{{ "/assets/2019.JPG" | relative_url }}" alt="whatever" style="width:100%; max-width:600px; border-radius:8px; margin: 16px 0;">
+
 ## 2020 — Fully Online {#y2020}
 
 *Organized by: Paolo Marangio, Jordi Ferrer-Orri, Maaike Trân, Ezekiel Stevens, Nadja Verspagen*
