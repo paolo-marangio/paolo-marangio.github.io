@@ -1,0 +1,74 @@
+<style>
+    /* Force the mobile-style hamburger nav on ALL screen sizes,
+       not just small ones. This overrides minima's default
+       responsive behavior, which only shows the hamburger below
+       a certain width and shows inline links above it. */
+  
+    .site-nav {
+      float: right;
+      line-height: 56px;
+      position: relative;
+    }
+  
+    /* Hide the actual checkbox input (it's just used to track open/closed state) */
+    .site-nav .nav-trigger {
+      display: none;
+    }
+  
+    /* Always show the hamburger icon itself */
+    .site-nav .menu-icon {
+      display: block !important;
+      float: right;
+      width: 36px;
+      height: 26px;
+      line-height: 0;
+      padding-top: 10px;
+      text-align: center;
+    }
+  
+    .site-nav .menu-icon > svg {
+      fill: currentColor;
+    }
+  
+    .site-nav label[for="nav-trigger"] {
+      display: block !important;
+      float: right;
+      width: 36px;
+      height: 36px;
+      z-index: 2;
+      cursor: pointer;
+    }
+  
+    /* Hide the link list by default, on every screen size */
+    .site-nav .trigger {
+      clip: rect(1px, 1px, 1px, 1px);
+      position: absolute;
+      white-space: nowrap;
+      width: 1px;
+      height: 1px;
+      overflow: hidden;
+    }
+  
+    /* Reveal it when the hidden checkbox is checked (i.e. icon was clicked) */
+    .site-nav input:checked ~ .trigger {
+      clip: auto;
+      display: block;
+      position: absolute;
+      width: auto;
+      height: auto;
+      overflow: visible;
+      background-color: #111;
+      border: 1px solid #333;
+      border-radius: 6px;
+      right: 0;
+      top: 46px;
+      text-align: right;
+      padding: 6px 0;
+    }
+  
+    .site-nav .trigger .page-link {
+      display: block;
+      padding: 8px 20px;
+      color: #eee;
+    }
+  </style>
