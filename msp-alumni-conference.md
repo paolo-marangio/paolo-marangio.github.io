@@ -4,7 +4,13 @@ title: MSP Alumni Conference
 permalink: /msp-alumni-conference/
 ---
 
-The MSP Alumni Conference is a yearly gathering of alumni and students of the Maastricht Science Programme(https://www.maastrichtuniversity.nl/education/bachelor/programmes/maastricht-science-programme) — a chance to strengthen bonds between alumni, exchange ideas and news, and give current students a sense of what comes after graduation. I've been part of the organizing team since 2019.
+The MSP Alumni Conference is a yearly gathering of alumni and students of the [Maastricht Science Programme](https://www.maastrichtuniversity.nl/education/bachelor/programmes/maastricht-science-programme) — a chance to strengthen bonds between alumni, exchange ideas, and give current students a sense of what comes after graduation. I've been part of the organizing team since 2019, with a hiatus from 2022 to 2025.
+
+Organizing it usually starts with picking a date together with the MSP Alumni Officer and sending out invitations. A few weeks out, the programme is drafted around whatever alumni have offered to contribute, and logistics get finalized — all done online, since the team is scattered across countries and time zones.
+
+On the day, the team sets up the venue, greets attendees, hands out name tags and welcome packs, chairs sessions, keeps things on time, and takes photos, usually followed by an informal get-together so people can properly catch up.
+
+Being part of MSP's tight-knit community as a student made this easy to want to give back to — a fixed date each year for alumni to reconnect and pass something on to current students.
 
 **On this page:**
 
@@ -12,7 +18,6 @@ The MSP Alumni Conference is a yearly gathering of alumni and students of the Ma
 - [2020 — Fully Online](#y2020)
 - [2021 — Hybrid](#y2021)
 - [2026 — Hybrid](#y2026)
-- [How It Actually Comes Together](#how-it-comes-together)
 
 ## 2019 — In Person {#y2019}
 
@@ -22,7 +27,7 @@ This edition of the MSP conference was held on September 6th, 2019. The day feat
 
 <img src="{{ "/assets/2019.JPG" | relative_url }}" alt="whatever" style="width:100%; max-width:600px; border-radius:8px; margin: 16px 0;">
 
-## 2020 — Fully Online {#y2020}
+## 2020 — Online {#y2020}
 
 *Organized by: Paolo Marangio, Jordi Ferrer-Orri, Maaike Trân, Ezekiel Stevens, Nadja Verspagen*
 
@@ -42,12 +47,3 @@ This edition of the annual conference took place on September 18th. An online ev
 ## 2026 Hybrid {#y2026}
 
 I am going to be the main organizer of this year's conference (date TBC), in collaboration with the MSP Alumni Officer and his assistant.
-
-
-## Reflections from organizing the annual conference  {#how-it-comes-together}
-
-Organizing this kind of event has been genuinely rewarding. It usually starts with picking a date together with the MSP Alumni Officer, then sending out invitations by email and social media. A few weeks before the event, the programme gets drafted around whatever alumni have offered to contribute, and logistics get finalized. Since the organizing team tends to be scattered across countries and time zones, all of this planning happens online.
-
-On the day itself, the team handles setting up the venue with MSP staff, greeting attendees, handing out name tags and welcome packs, chairing sessions, keeping things on time, and taking photos — plus usually an informal get-together before or after the main event, so people have a real chance to catch up and make the most of being back in Maastricht.
-
-Being part of MSP's tight-knit community as a student made this an easy thing to want to give back to — a fixed date every year when alumni can return, physically or virtually, reconnect, and pass something on to current students.

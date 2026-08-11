@@ -11,8 +11,9 @@ Alongside that work, I've spent several years organizing events and communities 
 
 I'm fluent in Italian (native), English, and Spanish, have basic Dutch, and am currently learning Polish.
 
-## Events
+## Initiative
 
-- **[MSP Alumni Conference]({{ "/msp-alumni-conference/" | relative_url }})** — team member of the organizing team since 2019, across 4 editions of this annual event with different attendance modes (in-person, fully online and hybrid) in Maastricht in Maastricht.
-- **[PrecisionTox Consortium Dinner — June 2022]({{ "/precisiontox-dinner/" | relative_url }})** — helped organize a dinner as part of the consortium's general assembly meeting in Barcelona.
+- **[MSP Alumni Conference]({{ "/msp-alumni-conference/" | relative_url }})** — team member of the organizing team since 2019, across 4 editions of this annual event with different attendance modes (in-person, fully online and hybrid) in Maastricht.
+- **[PrecisionTox Consortium Dinner — June 2022]({{ "/precisiontox-dinner/" | relative_url }})** — helped organize a dinner as part of the first consortium's general assembly meeting in Barcelona.
 - **[Growing the MSP Alumni WhatsApp Community]({{ "/whatsapp-community/" | relative_url }})** — helped grow the community from 0 to 400+ members over between 2023 and 2026.
+- **[MSP Alumni Talks]({{ "/msp-alumni-talks/" | relative_url }})** — three online sessions so far (as of August 2026), where MSP alumni share their career path or a topic of interest with the community.
