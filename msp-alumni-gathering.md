@@ -1,10 +1,10 @@
 ---
 layout: page
-title: MSP Alumni Conference
-permalink: /msp-alumni-conference/
+title: MSP Alumni Gathering
+permalink: /msp-alumni-gathering/
 ---
 
-The MSP Alumni Conference is a yearly gathering of alumni and students of the [Maastricht Science Programme](https://www.maastrichtuniversity.nl/education/bachelor/programmes/maastricht-science-programme) — a chance to strengthen bonds between alumni, exchange ideas, and give current students a sense of what comes after graduation. I've been part of the organizing team since 2019, with a hiatus from 2022 to 2025.
+The MSP Alumni Gathering is a yearly gathering of alumni and students of the [Maastricht Science Programme](https://www.maastrichtuniversity.nl/education/bachelor/programmes/maastricht-science-programme) — a chance to strengthen bonds between alumni, exchange ideas, and give current students a sense of what comes after graduation. I've been part of the organizing team since 2019, with a hiatus from 2022 to 2025.
 
 Organizing it usually starts with picking a date together with the MSP Alumni Officer and sending out invitations. A few weeks out, the programme is drafted around whatever alumni have offered to contribute, and logistics get finalized — all done online, since the team is scattered across countries and time zones.
 
@@ -23,7 +23,7 @@ Being part of MSP's tight-knit community as a student made this easy to want to 
 
 *Organized by: Nadja Verspagen, Paolo Marangio, Ezekiel Stevens, Jordi Ferrer*
 
-This edition of the MSP conference was held on September 6th, 2019. The day featured 12 presentations from alumni and a keynote from incoming Dean Leon Claassen, followed by an evening reception with food and drinks and an informal speed-dating session in Stadspark Maastricht, designed to let students and alumni mix. That speed-dating format struck a chord — alumni-student interaction has been a core part of the conference ever since.
+This edition of the MSP Alumni Gathering was held on September 6th, 2019. The day featured 12 presentations from alumni and a keynote from incoming Dean Leon Claassen, followed by an evening reception with food and drinks and an informal speed-dating session in Stadspark Maastricht, designed to let students and alumni mix. That speed-dating format struck a chord — alumni-student interaction has been a core part of the Alumni Gathering ever since.
 
 <img src="{{ "/assets/2019.JPG" | relative_url }}" alt="whatever" style="width:100%; max-width:600px; border-radius:8px; margin: 16px 0;">
 
@@ -31,7 +31,7 @@ This edition of the MSP conference was held on September 6th, 2019. The day feat
 
 *Organized by: Paolo Marangio, Jordi Ferrer-Orri, Maaike Trân, Ezekiel Stevens, Nadja Verspagen*
 
-This edition of the annual conference took place on September 17th and 19th — fully virtual due to the pandemic. It included talks by Roy Erkens and Leon Claessen, a session with incoming MSP alumni officer Giuditta Perversi, and a virtual tour of the new MSP building hosted by Chris Pawley. The content shifted too: instead of research presentations, alumni ran skill-building workshops, career advice sessions, and storytelling talks, capped off with a panel debate and online speed-dating. Even without an in-person room, the social side of the event held up.
+This edition of the annual MSP Alumni Gathering took place on September 17th and 19th — fully virtual due to the pandemic. It included talks by Roy Erkens and Leon Claessen, a session with incoming MSP alumni officer Giuditta Perversi, and a virtual tour of the new MSP building hosted by Chris Pawley. The content shifted too: instead of research presentations, alumni ran skill-building workshops, career advice sessions, and storytelling talks, capped off with a panel debate and online speed-dating. Even without an in-person room, the social side of the event held up.
 
 <img src="{{ "/assets/mspac_2020.png" | relative_url }}" alt="whatever" style="width:100%; max-width:600px; border-radius:8px; margin: 16px 0;">
 
@@ -46,4 +46,4 @@ This edition of the annual conference took place on September 18th. An online ev
 
 ## 2026 Hybrid {#y2026}
 
-I am going to be the main organizer of this year's conference currently scheduled on October 10th, in collaboration with the MSP Alumni Officer and his assistant.
+I am going to be the main organizer of this year's edition currently scheduled on October 10th, in collaboration with the MSP Alumni Officer and his assistant. This will be a special edition
