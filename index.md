@@ -5,7 +5,9 @@ title: Events & Community
 
 <img src="{{ "/assets/profile.jpg" | relative_url }}" alt="Paolo Marangio" style="width:180px; height:180px; object-fit:cover; border-radius:50%; float:right; margin: 0 0 16px 24px;">
 
-I'm a Data Engineer and Operations Assistant at the Barcelona Supercomputing Center (BSC), working on research infrastructure, HPC pipelines, and data management within the Computational Social Sciences & Humanities department. I hold a BSc in Biology/Chemistry from Maastricht University and an MSc in High Performance Computing and Data Science from the University of Edinburgh, with a background in IT consulting before that.
+I’m a Data Engineer and Operations Assistant at the Barcelona Supercomputing Center (BSC), where I work on research infrastructure, HPC pipelines, and data management within the Computational Social Sciences and Humanities department.
+
+I hold a BSc in Natural Sciences from Maastricht University’s Maastricht Science Programme, as well as an MSc in Biotechnology and Synthetic Biology and an MSc in High Performance Computing and Data Science from the University of Edinburgh.
 
 Alongside that work, I've spent several years organizing events and communities — mostly through the Maastricht Science Programme (MSP) alumni network, where I currently serve as a volunteer community manager. This site is a running record of that side of things.
 
